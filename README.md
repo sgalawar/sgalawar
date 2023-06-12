@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Souheil</h1>
 <h3 align="center">I have an affinity for software in business development</h3>
-<img align="right" alt="Coding" style="width:90vw" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc2NWY1OGQyN2ExYjk3NzM4ZWZjMmRjMDlhYWVmNDE0NGI1OTVjMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" style="width:10vw" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc2NWY1OGQyN2ExYjk3NzM4ZWZjMmRjMDlhYWVmNDE0NGI1OTVjMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **my own personal website**
 
