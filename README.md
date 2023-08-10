@@ -2,11 +2,11 @@
 <h3 align="center">I have an affinity for software in business development</h3>
 <img align="right" alt="Coding" style="width:30vw" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc2NWY1OGQyN2ExYjk3NzM4ZWZjMmRjMDlhYWVmNDE0NGI1OTVjMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **a command-line version of Tetris**
+- 🔭 I’m currently working on **a portfolio for my apps**
 
-- 🌱 I’m currently learning **prompt engineering practices**
+- 🌱 I’m currently learning **game development with .NET & C#**
 
-- 🤝 I’m looking for help with **python frameworks**
+- 🤝 I’m looking for help with **AI web integration**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
